@@ -1,59 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T09:35:41.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="or4BayH4PHCkUPQ5lFGJ" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T09:55:13.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1LYKy7vaF3k7m29PdUXM" version="23.1.7" type="github">
   <diagram name="Page-1" id="NjX3JLt3b12o8DTwjtbY">
-    <mxGraphModel dx="794" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-1" value="utilisateur" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="320" y="30" width="120" height="40" as="geometry" />
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-1" value="utilisateur" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_TpfCg9p-ahDsjbrFxFz-1" parent="1">
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="_TpfCg9p-ahDsjbrFxFz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-6" value="&lt;ul&gt;&lt;li&gt;Visualiser les données du portefeuille&amp;nbsp;&lt;/li&gt;&lt;li&gt;sélectionner les critères d&#39;optimisation&lt;/li&gt;&lt;li&gt;visualiser les résultats de l&#39;optimisation&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-6" value="&lt;ul&gt;&lt;li&gt;Visualiser les données du portefeuille&amp;nbsp;&lt;/li&gt;&lt;li&gt;sélectionner les critères d&#39;optimisation&lt;/li&gt;&lt;li&gt;visualiser les résultats de l&#39;optimisation&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="310" y="300" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-20" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-8" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-8" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="380" y="420" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_TpfCg9p-ahDsjbrFxFz-8" parent="1">
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_TpfCg9p-ahDsjbrFxFz-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-10" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_TpfCg9p-ahDsjbrFxFz-10" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-12" value="système" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="570" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_TpfCg9p-ahDsjbrFxFz-12" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="730" as="targetPoint" />
+            <mxPoint x="395" y="580" as="targetPoint" />
+            <mxPoint x="380" y="460" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="410" y="600" />
-              <mxPoint x="410" y="600" />
+              <mxPoint x="395" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-14" value="&lt;ul&gt;&lt;li&gt;Collecter et stocker les données  &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pré traiter les données&lt;br&gt;&lt;/li&gt;&lt;li&gt; Développer et entraîner les&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; &lt;font color=&quot;#0d0d0d&quot;&gt;&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;modèles&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#0d0d0d&quot;&gt;Optimiser les portefeuilles d&#39;investissement&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#0d0d0d&quot;&gt;Générer des rapports et visualisations&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="730" width="200" height="210" as="geometry" />
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-10" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="380" y="420" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_TpfCg9p-ahDsjbrFxFz-7" target="_TpfCg9p-ahDsjbrFxFz-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-12" value="système" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="335" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_TpfCg9p-ahDsjbrFxFz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_TpfCg9p-ahDsjbrFxFz-7" target="_TpfCg9p-ahDsjbrFxFz-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="_TpfCg9p-ahDsjbrFxFz-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TpfCg9p-ahDsjbrFxFz-14" value="&lt;ul&gt;&lt;li&gt;Collecter et stocker les données  &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pré traiter les données&lt;br&gt;&lt;/li&gt;&lt;li&gt; Développer et entraîner les&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; &lt;font color=&quot;#0d0d0d&quot;&gt;&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;modèles&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#0d0d0d&quot;&gt;Optimiser les portefeuilles d&#39;investissement&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#0d0d0d&quot;&gt;Générer des rapports et visualisations&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="310" y="600" width="200" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
